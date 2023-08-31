@@ -1,8 +1,12 @@
+import CoinContainer from './components/CoinContainer';
+
 function App () {
 
   return (
     <>
-      <main>App</main>
+      <main>
+        <CoinContainer />
+      </main>
     </>
   );
 }
